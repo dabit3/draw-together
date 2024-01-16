@@ -2,7 +2,7 @@
 
 1. In `partykit-fal-react`, configure your Fal.ai credentials in `.env.local` (see `.env.local.example`)
 
-In this directory, also run the app by installing the dependencies and running `npm run dev`
+    In this directory, also run the app by installing the dependencies and running `npm run dev`
 
 2. Run the PartyKit server by changing into the `partykit-fal` folder, installing the dependencies, and running `npm run dev`
 
