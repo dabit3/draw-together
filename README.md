@@ -1,4 +1,4 @@
-# Fal + React - Draw Together real-time client
+# PartyKit + Fal + React - Draw Together real-time client
 
 ![Draw together demo](realtime.gif)
 
