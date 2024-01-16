@@ -1,5 +1,7 @@
 # Fal + React - Draw Together real-time client
 
+![Draw together demo](realtime.gif)
+
 1. In `partykit-fal-react`, configure your Fal.ai credentials in `.env.local` (see `.env.local.example`)
 
     In this directory, also run the app by installing the dependencies and running `npm run dev`
